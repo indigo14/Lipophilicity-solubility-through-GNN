@@ -1,0 +1,18 @@
+# Ignore environment folder
+pppvenv/
+
+# Ignore other specific files or directories
+# other_directory/
+# another_file.txt
+Graph Neural Network.docx
+initial.ipynb
+MoleculeNet A Benchmark for Molecular Machine Learning.pdf
+OHT.ipynb
+pytorchg_lipo_crossval.ipynb
+pytorchg_lipo_final.ipynb
+pytorchg_lipo.ipynb
+pytorchg_lipo_optuna.ipynb
+scribblesnb.ipynb
+test_set.csv
+train_set.csv
+
